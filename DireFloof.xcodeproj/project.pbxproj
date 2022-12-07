@@ -923,7 +923,7 @@
 					};
 					04EC13EB1E46A966000E15A6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = J8ZUY53AC3;
+						DevelopmentTeam = JCH5W6VSL6;
 						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -1616,12 +1616,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = DireFloof/DireFloof.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = J8ZUY53AC3;
+				DEVELOPMENT_TEAM = JCH5W6VSL6;
 				INFOPLIST_FILE = DireFloof/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1.18;
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = com.extratone.amarok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "DireFloof/DireFloof-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
@@ -1754,12 +1755,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = DireFloof/DireFloof.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = J8ZUY53AC3;
+				DEVELOPMENT_TEAM = JCH5W6VSL6;
 				INFOPLIST_FILE = DireFloof/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1.18;
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = com.extratone.amarok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "DireFloof/DireFloof-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1776,12 +1778,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = DireFloof/DireFloof.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = J8ZUY53AC3;
+				DEVELOPMENT_TEAM = JCH5W6VSL6;
 				INFOPLIST_FILE = DireFloof/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1.18;
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = com.extratone.amarok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "DireFloof/DireFloof-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
